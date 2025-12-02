@@ -12,7 +12,7 @@ New Era University
 ---
 
 ## 📜 Certifications
-*(To be added soon.)*
+- [SQL and Relational Databases 101}(https://courses.cognitiveclass.ai/certificates/ff5c8b90bcdd4e4bb1714533efbc731d)
 
 ---
 
