@@ -13,7 +13,7 @@ New Era University
 
 ## 📜 Certifications
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/ff5c8b90bcdd4e4bb1714533efbc731d)
-
+- [Oracle Certified Foundations Associate]([https://courses.cognitiveclass.ai/certificates/ff5c8b90bcdd4e4bb1714533efbc731d](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC7910402&trackId=OCI25FNDCFA&key=d18020cdba235906bb67c8c474542210e5dc6f0c))
 
 ---
 
