@@ -15,6 +15,7 @@ New Era University
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/ff5c8b90bcdd4e4bb1714533efbc731d)
 - [Become An OCI Foundations Associate (2025)](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC7910402&trackId=OCI25FNDCFA&key=d18020cdba235906bb67c8c474542210e5dc6f0c)
 - [Become an Oracle Data Platform Foundations Associate](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC7910402&trackId=OCI25DCFA&key=81314214966218c3e38f4709ba4d7ce48395eb17)
+- [Become An OCI AI Foundations Associate (2025)](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC7910402&trackId=OCI25AICFA&key=0fb1ac94bf1a7a06d8f1738d8a1c70616dbf0feb)
 ---
 
 ## 🛠 Skillsets
